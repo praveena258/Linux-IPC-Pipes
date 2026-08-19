@@ -86,7 +86,8 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 
 ## OUTPUT
-![Pipe Output](image/pipe.png)
+<img width="617" height="252" alt="image" src="https://github.com/user-attachments/assets/0264aa8b-80fb-4291-8a89-64dd7e8490cb" />
+
 
 ##PROGRAM
 
@@ -108,7 +109,8 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-![FIFO Output](image/fifo.png)
+<img width="613" height="123" alt="image" src="https://github.com/user-attachments/assets/74018c24-59e6-48a6-b824-853010f25d11" />
+
 
 # RESULT:
 The program is executed successfully.
